@@ -150,6 +150,10 @@ table th {
   font-weight: 500;
 }
 
+table td {
+  white-space: pre
+}
+
 /* Overrides for bootstrap modal */
 .modal-body {
   padding: 16px;
